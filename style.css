@@ -125,6 +125,13 @@ body {
   width: 100%;
 }
 
+/* Testimonials */
+
+.card-img-top img {
+  display: inline-block;
+}
+
+
 /* Cakes (cakes.html) */
 
 span {
@@ -240,7 +247,7 @@ form {
     }
 
     .sticky-top {
-  z-index: 1030; /* Bootstrap default for navbars */
+  z-index: 1030; 
 }
 
 
