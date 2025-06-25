@@ -58,6 +58,8 @@ body {
   z-index: 1;
 }
 
+h1{font-size: 75px;}
+
 .button-creative::before {
   content: '';
   position: absolute;
